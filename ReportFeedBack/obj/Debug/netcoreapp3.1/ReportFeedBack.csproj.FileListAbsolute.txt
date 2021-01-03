@@ -1,0 +1,488 @@
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\libman.json
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.exe
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.deps.json
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.runtimeconfig.json
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.runtimeconfig.dev.json
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.pdb
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.Views.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.Views.pdb
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Subrata\Task-master\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Subrata\Task-master\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.AssemblyInfoInputs.cache
+D:\Subrata\Task-master\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.AssemblyInfo.cs
+D:\Subrata\Task-master\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.csproj.CoreCompileInputs.cache
+D:\Subrata\Task-master\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.MvcApplicationPartsAssemblyInfo.cache
+D:\Subrata\Task-master\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.RazorAssemblyInfo.cache
+D:\Subrata\Task-master\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.RazorAssemblyInfo.cs
+D:\Subrata\Task-master\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.TagHelpers.input.cache
+D:\Subrata\Task-master\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.TagHelpers.output.cache
+D:\Subrata\Task-master\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.RazorCoreGenerate.cache
+D:\Subrata\Task-master\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.RazorTargetAssemblyInfo.cache
+D:\Subrata\Task-master\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.RazorTargetAssemblyInfo.cs
+D:\Subrata\Task-master\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.Views.pdb
+D:\Subrata\Task-master\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.csproj.CopyComplete
+D:\Subrata\Task-master\ReportFeedBack\obj\Debug\netcoreapp3.1\staticwebassets\ReportFeedBack.StaticWebAssets.Manifest.cache
+D:\Subrata\Task-master\ReportFeedBack\obj\Debug\netcoreapp3.1\staticwebassets\ReportFeedBack.StaticWebAssets.xml
+D:\Subrata\Task-master\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.dll
+D:\Subrata\Task-master\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.pdb
+D:\Subrata\Task-master\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.genruntimeconfig.cache
+D:\Subrata\Task-master\ReportFeedBack\obj\Debug\netcoreapp3.1\Razor\Views\PostedUnseInfo\Index.cshtml.g.cs
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\libman.json
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.exe
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.deps.json
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.runtimeconfig.json
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.runtimeconfig.dev.json
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.pdb
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.Views.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.Views.pdb
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Biplob\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Biplob\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.csprojAssemblyReference.cache
+D:\Biplob\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.AssemblyInfoInputs.cache
+D:\Biplob\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.AssemblyInfo.cs
+D:\Biplob\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.csproj.CoreCompileInputs.cache
+D:\Biplob\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.MvcApplicationPartsAssemblyInfo.cache
+D:\Biplob\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.RazorAssemblyInfo.cache
+D:\Biplob\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.RazorAssemblyInfo.cs
+D:\Biplob\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.TagHelpers.input.cache
+D:\Biplob\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.TagHelpers.output.cache
+D:\Biplob\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.RazorCoreGenerate.cache
+D:\Biplob\ReportFeedBack\obj\Debug\netcoreapp3.1\Razor\Views\PostedUnseInfo\Index.cshtml.g.cs
+D:\Biplob\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.RazorTargetAssemblyInfo.cache
+D:\Biplob\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.RazorTargetAssemblyInfo.cs
+D:\Biplob\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.Views.pdb
+D:\Biplob\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.csproj.CopyComplete
+D:\Biplob\ReportFeedBack\obj\Debug\netcoreapp3.1\staticwebassets\ReportFeedBack.StaticWebAssets.Manifest.cache
+D:\Biplob\ReportFeedBack\obj\Debug\netcoreapp3.1\staticwebassets\ReportFeedBack.StaticWebAssets.xml
+D:\Biplob\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.dll
+D:\Biplob\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.pdb
+D:\Biplob\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.genruntimeconfig.cache
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\libman.json
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.exe
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.deps.json
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.runtimeconfig.json
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.runtimeconfig.dev.json
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.pdb
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.Views.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\ReportFeedBack.Views.pdb
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.csprojAssemblyReference.cache
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.AssemblyInfoInputs.cache
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.AssemblyInfo.cs
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.csproj.CoreCompileInputs.cache
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.MvcApplicationPartsAssemblyInfo.cache
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.RazorAssemblyInfo.cache
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.RazorAssemblyInfo.cs
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.TagHelpers.input.cache
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.TagHelpers.output.cache
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.RazorCoreGenerate.cache
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\obj\Debug\netcoreapp3.1\Razor\Views\PostedUnseInfo\Index.cshtml.g.cs
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.RazorTargetAssemblyInfo.cache
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.RazorTargetAssemblyInfo.cs
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.Views.pdb
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.csproj.CopyComplete
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\obj\Debug\netcoreapp3.1\staticwebassets\ReportFeedBack.StaticWebAssets.Manifest.cache
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\obj\Debug\netcoreapp3.1\staticwebassets\ReportFeedBack.StaticWebAssets.xml
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.dll
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.pdb
+E:\Brainstation 23(03_jan_2021)\ReportFeedBack\obj\Debug\netcoreapp3.1\ReportFeedBack.genruntimeconfig.cache
